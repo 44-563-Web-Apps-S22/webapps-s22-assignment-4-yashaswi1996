@@ -1,0 +1,26 @@
+.speech{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+.name{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    color: black;
+}
+.direction{
+    font-family: 'Times New Roman', Times, serif ;
+    font-size: 16px;
+    color: black;
+    background-color: plum;
+}
+.direction:hover{
+    background-color: blueviolet;
+    color: burlywood;
+}
+.MUSIC-MASTER{
+    color: indianred;
+}
+.MONSIEUR-JOURDAIN{
+    color: cornflowerblue;
+}
