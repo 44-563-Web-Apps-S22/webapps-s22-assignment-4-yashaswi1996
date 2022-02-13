@@ -35,3 +35,17 @@ table,td,tr{
   td{
     text-align: left;
   }
+  span h6:hover{
+    text-shadow: 0 0 2px black;
+    color: transparent;
+    font-size: 20px;
+    border: dotted;
+  }
+  .name:hover{
+    text-shadow:2px 4px 3px rgb(rgb(29, 116, 122));
+    color: brown;
+    filter: green(5px);
+    border: double 2px black;
+  }
+  
+  
