@@ -24,3 +24,14 @@
 .MONSIEUR-JOURDAIN{
     color: cornflowerblue;
 }
+table,td,tr{
+    border: 2px solid black;
+    color: black;
+  }
+  th{
+    border: 2px solid crimson;
+    color: blue;
+  }
+  td{
+    text-align: left;
+  }
